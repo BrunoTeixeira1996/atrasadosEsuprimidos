@@ -1,8 +1,7 @@
 # Atrasados e Suprimidos
 
 Esta aplicação apresenta em tempo real quais são os comboios atrasados e suprimidos nas principais estações do país.
-Tem tambem uma área de **Dados Mensais** que mostra gráficos referentes aos atrasos e às supressões diárias durante cada mês do ano.
-www.atrasadosesuprimidos.pt
+Tem tambem uma área de **Dados Mensais** que mostra gráficos referentes aos atrasos e às supressões diárias durante cada mês do ano. <br>www.atrasadosesuprimidos.pt
 
 ## Ferramentas usadas
 
